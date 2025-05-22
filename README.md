@@ -81,3 +81,4 @@ return 0;
 ![image](https://github.com/user-attachments/assets/63dca19b-6e34-4ad3-ab97-55dbb1f87c15)
 
 ## RESULT
+Thus the program is executed successfully .
